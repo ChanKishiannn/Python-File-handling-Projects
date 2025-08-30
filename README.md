@@ -1,5 +1,3 @@
-# Python-File-handling-Projects
-
 # 📂 Python-File-handling-Projects
 
 This project demonstrates how to perform **file handling operations** such as reading, writing, updating, and deleting files using programming concepts.  
